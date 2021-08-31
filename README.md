@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainDiscordAR&theme=dark&layout=compact)
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ZainDiscordAR.ZainDiscordAR)
+<img src="https://komarev.com/ghpvc/?username=ZainDiscordAR
+"/>
 
